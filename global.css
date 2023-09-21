@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sarala: Sarala;
+  --font-inter: Inter;
+  --font-caladea: Caladea;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-45xl: 64px;
+  --font-size-xl: 20px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-red: #ff0000;
+  --color-burlywood: #deb887;
+  --color-silver: #c5c5c5;
+
+  /* Paddings */
+  --padding-4xl: 23px;
+}

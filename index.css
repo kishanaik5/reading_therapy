@@ -1,0 +1,346 @@
+.image-23-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 830px;
+  object-fit: cover;
+}
+.welcome-to-our {
+  margin: 0;
+}
+.welcome-to-our-container {
+  position: absolute;
+  top: 184px;
+  left: calc(50% - 553px);
+  display: inline-block;
+  background: #ff373f;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 506px;
+  height: 87px;
+  border-width: 10px;
+  border-color: cornsilk;
+}
+.read-articles-motivational {
+  position: relative;
+  display: inline-block;
+  width: 1300px;
+  element.style {
+  }
+
+  flex-shrink: 0;
+}
+.read-articles-motivational-qu-wrapper {
+  position: absolute;
+  top: 326px;
+  left: calc(42% - 546px);
+  background-color: var(--color-burlywood);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 18px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.reading-therapy-often-container,
+.what-is-reading {
+  position: absolute;
+  letter-spacing: 0.1em;
+  line-height: 30px;
+  text-align: center;
+  display: inline-block;
+}
+.what-is-reading {
+  top: 951px;
+  left: calc(50% - 398px);
+  font-size: 50px;
+  font-family: var(--font-sarala);
+  color: var(--color-burlywood);
+  width: 797px;
+  height: 34px;
+}
+.reading-therapy-often-container {
+  top: 0;
+  left: calc(50% - 520.5px);
+  width: 1022px;
+  height: 283px;
+}
+.reduces-stress-container {
+  position: absolute;
+  top: 416px;
+  left: calc(50% - 526.5px);
+  letter-spacing: 0.1em;
+  line-height: 30px;
+}
+.emotional-turmoil {
+  margin-bottom: 0;
+}
+.emotional-turmoil-isolation-ne {
+  margin: 0;
+  padding-left: var(--padding-4xl);
+}
+.emotional-awareness-connection-container,
+.emotional-turmoil-isolation-container {
+  position: absolute;
+  top: 386px;
+  left: calc(50% - 84.5px);
+  font-size: var(--font-inherit);
+  letter-spacing: 0.1em;
+  line-height: 30px;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 310px;
+  height: 150px;
+}
+.emotional-awareness-connection-container {
+  top: 425px;
+  left: calc(50% + 275.5px);
+  width: 241px;
+  height: 219px;
+}
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 22px;
+  left: 16px;
+  background-color: var(--color-silver);
+  width: 383px;
+  height: 81px;
+}
+.frame-item {
+  top: 11px;
+  left: 8px;
+  background-color: var(--color-burlywood);
+}
+.benefits-of-reading-container {
+  position: absolute;
+  top: 33px;
+  left: calc(50% - 155.5px);
+  letter-spacing: 0.1em;
+  line-height: 30px;
+  display: inline-block;
+  width: 232px;
+  height: 37px;
+}
+.ellipse-div,
+.frame-inner {
+  position: absolute;
+  top: 22px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 12px;
+  height: 10px;
+}
+.ellipse-div {
+  top: 70px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 288px;
+  left: calc(50% - 561.5px);
+  width: 399px;
+  height: 103px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red);
+  font-family: var(--font-sarala);
+}
+.frame-child1,
+.rectangle-div {
+  position: absolute;
+  top: 11px;
+  left: 12px;
+  background-color: var(--color-silver);
+  width: 570px;
+  height: 81px;
+}
+.frame-child1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-burlywood);
+}
+.before-and-after {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 273px);
+  letter-spacing: 0.1em;
+  line-height: 30px;
+  display: inline-block;
+  width: 506px;
+}
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  top: 11px;
+  left: 6px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 12px;
+  height: 10px;
+}
+.frame-child3 {
+  top: 60px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 299px;
+  left: calc(50% - 65.5px);
+  width: 582px;
+  height: 92px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red);
+  font-family: var(--font-sarala);
+}
+.image-16-icon {
+  position: absolute;
+  top: -1868px;
+  left: -4522px;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.frame {
+  position: absolute;
+  top: 467px;
+  left: calc(50% + 205.5px);
+  width: 75px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector-icon {
+  position: absolute;
+  height: 2.52%;
+  top: 82.09%;
+  bottom: 15.39%;
+  left: calc(50% + 188.5px);
+  max-height: 100%;
+  width: 62.49px;
+}
+.reading-therapy-often-referre-parent {
+  position: absolute;
+  top: 1035px;
+  left: calc(50% - 525px);
+  width: 1051px;
+  height: 575px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-caladea);
+}
+.reading-therapy {
+  position: absolute;
+  top: 184px;
+  left: calc(50% - 28px);
+  display: inline-block;
+  background: cornsilk;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 1106px;
+  height: 87px;
+}
+.desktop-10-child,
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+}
+.desktop-10-child {
+  background-color: rgba(0, 0, 0, 0.52);
+  width: 1540px;
+}
+.frame-child4 {
+  background-color: transparent;
+  width: 793px;
+}
+.frame-wrapper,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: -101px;
+  width: 793px;
+  height: 70px;
+}
+.frame-wrapper {
+  left: 100px;
+  width: 787px;
+}
+.articles,
+.books,
+.home,
+.summaries {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+}
+.articles,
+.books,
+.summaries {
+  top: 21px;
+  left: 178px;
+}
+.books,
+.summaries {
+  top: 21px;
+  left: 356px;
+}
+.books {
+  top: 2px;
+  left: 0px;
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 748px;
+  width: 392px;
+  height: 70px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-sarala);
+}
+.desktop-10 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1716px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.logo{
+  display: inline-flex;
+  height: fit-content;
+  z-index: 999;
+}
+.logo-design-start{
+  display: inline-flex;
+  top : 5px;
+  left: 60px;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  border-radius: 112px;
+  /* color: blue; */
+}
+.desktop1button-text001 {
+  top: 30px;
+  left: 220px;
+  color: rgb(225, 225, 225);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: ultra-condensed;
+  text-decoration: none;
+  /* z-index: 9999; */
+}
