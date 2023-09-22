@@ -164,8 +164,8 @@
 }
 .before-and-after {
   position: absolute;
-  top: 25px;
-  left: calc(50% - 273px);
+  top: 12px;
+  left: calc(53% - 273px);
   letter-spacing: 0.1em;
   line-height: 30px;
   display: inline-block;
